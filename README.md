@@ -1,2 +1,2 @@
-# Titanic-Data-Analysis-using-Machiene-Learning
+# Titanic-Data-Analysis-using-Machine-Learning
 Predicting and Visualizing the survival of the passengers of RMS Titanic using information about the passengers
